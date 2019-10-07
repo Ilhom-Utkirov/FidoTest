@@ -1,0 +1,54 @@
+html{
+    background-color: #E1E1E1;
+}
+body{
+
+    font-family: Lucida da Grande , Lucida Sans Unicode , Verdana, Tahoma, Arial,sans-erif;
+    margin-top: 5%;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 70%;
+    height: 70%;
+    background-color: lightgray;
+
+    font-size: 2em;
+    font-weight: normal;
+    font-style: normal;
+    color: #3A4956;
+
+
+    line-height: 160%;
+    text-align: center;
+    border: 5px lightblue;
+
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+
+
+
+    max-height: 90%;
+
+}
+    h1{
+
+
+        color: navy;
+        margin-left: 20px;
+        font-family: Cambria,serif;
+        font-size: 2em;
+        font-weight: bolder;
+        font-style: italic;
+
+        /*margin: 1em 0.4em;*/
+        size: auto;
+    }
+        .remember{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: transparent;
+            line-height: 1.6;
+            text-align: center;
+
+        }
